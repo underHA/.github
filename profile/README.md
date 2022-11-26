@@ -1,5 +1,7 @@
-## underHA.
-coming to your local hackathon ✌️
+## Under H_a
+The alternative hypothesis,
+
+coming to your local hackathon. ✌️
 
 <!--
 
