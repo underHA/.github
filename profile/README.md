@@ -1,7 +1,4 @@
 ## Under H_a
-The alternative hypothesis,
-
-coming to your local hackathon. ✌️
 
 <!--
 
